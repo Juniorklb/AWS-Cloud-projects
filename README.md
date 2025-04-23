@@ -23,6 +23,7 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 ## AWS Projects:
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/AWS-Cloud-projects/blob/bb4222fbdf2714632118eca7d47c4d2b55d46952/ChatGPT%20Image%20Apr%2023%2C%202025%2C%2002_14_16%20PM.png">
+
 - <h4><a href="https://github.com/Juniorklb/AWS-Serverless-URL-Shortener">AWS Serveless URL Shortener (in progress)</h4>
 
 - <h4><a "href="https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance">AWS Load balancer 1 EC2 (in progress)</h4>
