@@ -7,8 +7,8 @@ Cloud computing has transformed the way businesses operate, providing scalabilit
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Juniorklb/blob/662692f737cc8f550da799d48190446b55a68900/Working%20hard.jpeg">
 
-- <a href="https://github.com/Juniorklb/AWS-Serverless-URL-Shortener">AWS Serveless URL Shortener</a>
+- <a href="https://github.com/Juniorklb/AWS-Serverless-URL-Shortener">AWS Serveless URL Shortener in progress</a>
 
-- <a href="https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance">AWS Load balancer 1 EC2</a>
+- <a href="https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance">AWS Load balancer 1 EC2 in progress</a>
 
-- <a href="https://github.com/Juniorklb/Static-website-S3-">AWS static website with S3</a>
+- <a href="https://github.com/Juniorklb/Static-website-S3-">AWS static website with S3 in progress</a>
