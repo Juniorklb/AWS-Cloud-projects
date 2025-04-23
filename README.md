@@ -7,18 +7,19 @@ Cloud computing has transformed the way businesses operate, providing scalabilit
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Juniorklb/blob/662692f737cc8f550da799d48190446b55a68900/Working%20hard.jpeg">
 
-- <a href="https://github.com/Juniorklb/AWS-Serverless-URL-Shortener">AWS Serveless URL Shortener (in progress)</a>
 
-- <a href="https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance">AWS Load balancer 1 EC2 (in progress)</a>
+- <h4><a href="https://github.com/Juniorklb/AWS-Serverless-URL-Shortener">AWS Serveless URL Shortener (in progress)</h4>
 
-- <a href="https://github.com/Juniorklb/Static-website-S3-">AWS static website with S3 (in progress)</a>
+- <h4><a "href="https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance">AWS Load balancer 1 EC2 (in progress)</h4>
 
-- <a href="https://github.com/Juniorklb/Lambda-function-returning-JSON"> AWS lambda function (in progress)</a>
+- <h4><a "href="https://github.com/Juniorklb/Static-website-S3-">AWS static website with S3 (in progress)</h4>
 
-- <a href="https://github.com/Juniorklb/AWS-Security-Monitoring-Dashboard"> AWS security monitoring (in progress)</a>
+- <h4><a "href="https://github.com/Juniorklb/Lambda-function-returning-JSON"> AWS lambda function (in progress)</h4>
 
-- <a href="https://github.com/Juniorklb/S3-Bucket-Security-Scanner">AWS S3 bucket security scanner (in progress)</a>
+- <h4><a "href="https://github.com/Juniorklb/AWS-Security-Monitoring-Dashboard"> AWS security monitoring (in progress)</h4>
 
-- <a href="https://github.com/Juniorklb/AWS-Cost-Tracker-App">AWS cost Tracker App (in progress)</a>
+- <h4><a "href="https://github.com/Juniorklb/S3-Bucket-Security-Scanner">AWS S3 bucket security scanner (in progress)</h4>
 
-- <a href="https://github.com/Juniorklb/S3-Lifecycle-Manager">AWS S3 Lifecycle Manager (in progress)</a>
+- <h4><a "href="https://github.com/Juniorklb/AWS-Cost-Tracker-App">AWS cost Tracker App (in progress)</h4>
+
+- <h4><a "href="https://github.com/Juniorklb/S3-Lifecycle-Manager">AWS S3 Lifecycle Manager (in progress)</h4>
