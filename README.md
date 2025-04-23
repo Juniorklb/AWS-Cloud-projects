@@ -14,3 +14,5 @@ Cloud computing has transformed the way businesses operate, providing scalabilit
 - <a href="https://github.com/Juniorklb/Static-website-S3-">AWS static website with S3 (in progress)</a>
 
 - <a href="https://github.com/Juniorklb/Lambda-function-returning-JSON"> AWS lambda function (in progress)</a>
+
+- <a href="https://github.com/Juniorklb/AWS-Security-Monitoring-Dashboard"> AWS security monitoring (in progress)</a>
