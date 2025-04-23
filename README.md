@@ -11,4 +11,4 @@ Cloud computing has transformed the way businesses operate, providing scalabilit
 
 - <a href="https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance">AWS Load balancer 1 EC2</a>
 
-- <a href="https://github.com/Juniorklb/Static-website-S3-">AWS static website S3</a>
+- <a href="https://github.com/Juniorklb/Static-website-S3-">AWS static website with S3</a>
