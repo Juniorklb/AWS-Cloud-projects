@@ -40,6 +40,6 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 - <h4><a "href="https://github.com/Juniorklb/S3-Lifecycle-Manager">AWS S3 Lifecycle Manager (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/AWS-Lambda-File-Virus-Scanner">AWS Lambda file Virus-SCanner)</h4>
+- <h4><a "href="https://github.com/Juniorklb/AWS-Lambda-File-Virus-Scanner">AWS Lambda file Virus-SCanner) (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/Multi-Region-Disaster-Recovery-Setup">AWS Multi Region Disaster Recovery Setup</h4>
+- <h4><a "href="https://github.com/Juniorklb/Multi-Region-Disaster-Recovery-Setup">AWS Multi Region Disaster Recovery Setup (in progress)</h4>
