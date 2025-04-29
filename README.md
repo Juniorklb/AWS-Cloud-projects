@@ -1,4 +1,4 @@
-# AWS-Cloud-projects
+# AWS-Cloud-projects  ![AWS](https://img.shields.io/badge/Built%20with-AWS-orange?style=flat&logo=amazonaws)![Project Status](https://img.shields.io/badge/status-in--progress-yellow)
 
 ## 🎯 Objectives
 Cloud computing has transformed the way businesses operate, providing scalability, flexibility, and cost efficiency. Amazon Web Services (AWS) is one of the leading cloud platforms, offering a wide range of services for computing, storage, networking, and security. This repository contains hands-on AWS projects that demonstrate real-world cloud architecture, automation, and security best practices.
