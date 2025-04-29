@@ -20,7 +20,7 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 
 
-## AWS Projects:
+## 💼AWS Projects:
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/AWS-Cloud-projects/blob/bb4222fbdf2714632118eca7d47c4d2b55d46952/ChatGPT%20Image%20Apr%2023%2C%202025%2C%2002_14_16%20PM.png">
 
