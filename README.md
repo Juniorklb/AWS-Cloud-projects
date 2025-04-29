@@ -3,7 +3,7 @@
 ## 🎯 Objectives
 Cloud computing has transformed the way businesses operate, providing scalability, flexibility, and cost efficiency. Amazon Web Services (AWS) is one of the leading cloud platforms, offering a wide range of services for computing, storage, networking, and security. This repository contains hands-on AWS projects that demonstrate real-world cloud architecture, automation, and security best practices.
  
-## What is "☁️the cloud"?
+## ☁️ What is "the cloud"?
 Cloud computing is the delivery of computing services like storage, servers, databases, networking, and software over the internet (“the cloud”) instead of using your own computer or physical hardware.
 Think of it like renting a powerful computer or service from a big tech company (like Amazon Web Services, Microsoft Azure, or Google Cloud) that you can access anytime, from anywhere.
 
