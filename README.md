@@ -30,7 +30,7 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 - <h4><a "href="https://github.com/Juniorklb/Static-website-S3-">AWS static website with S3 (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/Lambda-function-returning-JSON"> AWS lambda function (in progress)</h4>
+- <h4><a "href="https://github.com/Juniorklb/Lambda-function-returning-JSON"> AWS Lambda function returning JSON (in progress)</h4>
 
 - <h4><a "href="https://github.com/Juniorklb/AWS-Security-Monitoring-Dashboard"> AWS security monitoring (in progress)</h4>
 
@@ -40,6 +40,6 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 - <h4><a "href="https://github.com/Juniorklb/S3-Lifecycle-Manager">AWS S3 Lifecycle Manager (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/AWS-Lambda-File-Virus-Scanner">AWS Lambda file Virus-SCanner) (in progress)</h4>
+- <h4><a "href="https://github.com/Juniorklb/AWS-Lambda-File-Virus-Scanner">AWS Create an EC2 instance and connect via SSH) (in progress)</h4>
 
 - <h4><a "href="https://github.com/Juniorklb/Multi-Region-Disaster-Recovery-Setup">AWS Multi Region Disaster Recovery Setup (in progress)</h4>
