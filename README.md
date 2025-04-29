@@ -60,3 +60,5 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 
 [linkedin]: https://linkedin.com/in/Juniorkalomba
+
+**🔗 Feel free to contribute or suggest improvements!**
