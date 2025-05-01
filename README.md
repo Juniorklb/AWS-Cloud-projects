@@ -30,7 +30,7 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 - <h4><a href="https://github.com/Juniorklb/AWS-Serverless-URL-Shortener">☁️AWS Serveless URL Shortener </h4>
 
-- <h4><a "href="https://github.com/Juniorklb/Lambda-function-returning-JSON">☁️ AWS Lambda function returning JSON (in progress)</h4>
+- <h4><a href="https://github.com/Juniorklb/Lambda-function-returning-JSON">☁️ AWS Lambda function returning JSON (in progress)</h4>
 
 - <h4><a "href="https://github.com/Juniorklb/AWS-Security-Monitoring-Dashboard">☁️ AWS security monitoring (in progress)</h4>
 
