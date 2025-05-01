@@ -24,25 +24,25 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/AWS-Cloud-projects/blob/bb4222fbdf2714632118eca7d47c4d2b55d46952/ChatGPT%20Image%20Apr%2023%2C%202025%2C%2002_14_16%20PM.png">
 
-- <h4><a href="https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance">AWS Load balancer 1 EC2 </h4>
+- <h4><a href="https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance"> ☁️AWS Load balancer 1 EC2 </h4>
 
-- <h4><a href="https://github.com/Juniorklb/Static-website-S3-">AWS static website with S3 </h4>
+- <h4><a href="https://github.com/Juniorklb/Static-website-S3-">☁️AWS static website with S3 </h4>
 
-- <h4><a href="https://github.com/Juniorklb/AWS-Serverless-URL-Shortener">AWS Serveless URL Shortener </h4>
+- <h4><a href="https://github.com/Juniorklb/AWS-Serverless-URL-Shortener">☁️AWS Serveless URL Shortener </h4>
 
-- <h4><a "href="https://github.com/Juniorklb/Lambda-function-returning-JSON"> AWS Lambda function returning JSON (in progress)</h4>
+- <h4><a "href="https://github.com/Juniorklb/Lambda-function-returning-JSON">☁️ AWS Lambda function returning JSON (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/AWS-Security-Monitoring-Dashboard"> AWS security monitoring (in progress)</h4>
+- <h4><a "href="https://github.com/Juniorklb/AWS-Security-Monitoring-Dashboard">☁️ AWS security monitoring (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/S3-Bucket-Security-Scanner">AWS S3 bucket security scanner (in progress)</h4>
+- <h4><a "href="https://github.com/Juniorklb/S3-Bucket-Security-Scanner"> ☁️AWS S3 bucket security scanner (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/AWS-Cost-Tracker-App">AWS cost Tracker App (in progress)</h4>
+- <h4><a "href="https://github.com/Juniorklb/AWS-Cost-Tracker-App">☁️AWS cost Tracker App (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/S3-Lifecycle-Manager">AWS S3 Lifecycle Manager (in progress)</h4>
+- <h4><a "href="https://github.com/Juniorklb/S3-Lifecycle-Manager">☁️AWS S3 Lifecycle Manager (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/AWS-Lambda-File-Virus-Scanner">AWS Create an EC2 instance and connect via SSH) (in progress)</h4>
+- <h4><a "href="https://github.com/Juniorklb/AWS-Lambda-File-Virus-Scanner">☁️AWS Create an EC2 instance and connect via SSH) (in progress)</h4>
 
-- <h4><a "href="https://github.com/Juniorklb/Multi-Region-Disaster-Recovery-Setup">AWS Multi Region Disaster Recovery Setup (in progress)</h4>
+- <h4><a "href="https://github.com/Juniorklb/Multi-Region-Disaster-Recovery-Setup">☁️AWS Multi Region Disaster Recovery Setup (in progress)</h4>
 
 </b>
 <h2>👥 Connect with me:</h2>
