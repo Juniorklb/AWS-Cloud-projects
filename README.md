@@ -34,7 +34,7 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 - <h4><a href="https://github.com/Juniorklb/S3-Bucket-Security-Scanner"> ☁️AWS S3 bucket security scanner </h4>
 
-- <h4><a href="https://github.com/Juniorklb/AWS-Security-Monitoring-Dashboard">☁️ AWS Create a CloudWatch CPU usage alert </h4>
+- <h4><a href="https://github.com/Juniorklb/AWS-Cloudwatch-CPU-Usage-alert">☁️ AWS Create a CloudWatch CPU usage alert </h4>
 
 - <h4><a "href="https://github.com/Juniorklb/AWS-Cost-Tracker-App">☁️AWS cost Tracker App (in progress)</h4>
 
