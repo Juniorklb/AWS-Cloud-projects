@@ -40,7 +40,7 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 - <h4><a href="https://github.com/Juniorklb/S3-Lifecycle-Manager">☁️AWS S3 Lifecycle Manager </h4>
 
-- <h4><a href="https://github.com/Juniorklb/AWS-Lambda-File-Virus-Scanner">☁️AWS Create an EC2 instance and connect via SSH </h4>
+- <h4><a href="https://github.com/Juniorklb/AWS-EC2-connect-via-SSH">☁️AWS Create an EC2 instance and connect via SSH </h4>
 
 - <h4><a "href="https://github.com/Juniorklb/Multi-Region-Disaster-Recovery-Setup">☁️AWS Multi Region Disaster Recovery Setup (in progress)</h4>
 
