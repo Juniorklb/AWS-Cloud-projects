@@ -43,7 +43,7 @@ Before the cloud, businesses had to buy and manage their own hardware, which was
 
 - <h4><a href="https://github.com/Juniorklb/AWS-EC2-connect-via-SSH">☁️AWS EC2 instance connect via SSH </h4>
 
-- <h4><a "href="https://github.com/Juniorklb/Multi-Region-Disaster-Recovery-Setup">☁️AWS Multi Region Disaster Recovery Setup (in progress)</h4>
+- <h4><a href="https://github.com/Juniorklb/Multi-Region-Disaster-Recovery-Setup">☁️AWS Multi Region Disaster Recovery Setup (in progress)</h4>
 
 </b>
 <h2>👥 Connect with me:</h2>
